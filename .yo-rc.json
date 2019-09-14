@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ApplicationCatalogue",
+    "packageName": "com.unicredit.appcatalogue",
+    "packageFolder": "com/unicredit/appcatalogue",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "sr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.3.0",
+    "jwtSecretKey": "YWFjNmM3ZjliZjE0ZmUyZGYzZTcyZWQyYjI0YjU0OGYwYjJmM2YwNDA2MWY2MjY4NDE0ZGU0OTAwZTE4YjA5ZDc2OGFkMzczYjVjYTZkZmI1ZjAyZDZjOGE5MGZhNDQ5NDI5MGIzMDdiYzQzOTMyOTM0MDcwNWY3YjVmMjEyNDU=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "jabre",
+  "repository-name": "uc-application-catalogue"
+}
